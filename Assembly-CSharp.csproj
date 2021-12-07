@@ -37,10 +37,11 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\WeaponScript.cs" />
+     <Compile Include="Assets\PalikkaScript.cs" />
      <Compile Include="Assets\MouseLookScript.cs" />
      <Compile Include="Assets\PlayerScript.cs" />
-     <Compile Include="Assets\PalikkaScript.cs" />
      <Compile Include="Assets\BulletScript.cs" />
+     <Compile Include="Assets\GameManagerScript.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
